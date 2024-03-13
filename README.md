@@ -26,6 +26,22 @@ Screenshots or GIFs demonstrating your app's functionality.
 ## Installation
 
 Instructions for installing and running your app. Include any dependencies or prerequisites.
+### My Awesome Mobile App
+
+Here's a snippet of code from my mobile app:
+
+```java
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        // Your code here
+    }
+}
+
 
 ## Usage
 
